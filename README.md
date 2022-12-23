@@ -12,7 +12,5 @@ $ yarn install
 $ yarn start
 ```
 
-<p align="center">
-	With :heart: &nbsp;by <a href="#" target="_blank">Manasvi Alimchandani</a>
-</p>
+
 
